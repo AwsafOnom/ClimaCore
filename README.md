@@ -7,7 +7,7 @@
 **🏆 1st place, 15th e-ICON World Contest 2025 — 161 projects, 37 countries. Award received from the Minister of Education, Seoul.**
 
 > 🎬 **50-second promo** — *
-https://github.com/user-attachments/assets/58c18915-1a63-4c9a-91ca-f18ad97f1bda *
+(https://github.com/user-attachments/assets/58c18915-1a63-4c9a-91ca-f18ad97f1bda) *
 
 | | |
 |---|---|
