@@ -26,15 +26,35 @@ Korean youth show strong climate concern — **90.8% of surveyed students** expr
 
 ## The Three Modules
 
-### ClimaConnect
-School-based community feed where students share actions, join group missions, and see what their school is doing together.
+### 🤝 ClimaConnect — Community
 
-### ClimaGame
-GPS-powered team competition. Students travel to spawned **ecores** on a map and complete photo-verified eco-missions to earn green points for their school.
+A school-based social layer that turns individual effort into collective momentum.
 
-### ClimaSight
-Real-time climate news, disaster alerts, educational quizzes, and a ClimaAI assistant for climate questions.
+Students browse and join their school's community, then share climate actions in a feed where peers can like, comment, and be inspired. Community leaders organise real-world activities — river cleanups, tree plantations, workshops, seminars — with dates, locations, and point values attached. Students join with one tap, and leaders confirm attendance afterward to release green points.
 
+The design goal was replacing "searching" with "joining." Research showed the effort of finding and organising climate action was greater than the effort of doing it, so ClimaConnect removes that friction entirely.
+
+### 🎮 ClimaGame — Gamified Action
+
+A GPS-driven, two-month team competition that puts climate action into physical space.
+
+Ecores spawn at random real-world locations on the map. Students physically travel to them and unlock five climate missions each — turning off lights, unplugging devices, meatless meals, adjusting AC temperature — with each mission carrying a description, practical tips, and a point value designed to build the action into a lasting habit.
+
+Multiple schools compete for the same ecore. Whoever completes the most missions captures it; ties break on who finished last. The winning team splits the combined points from all five missions, while other teams still keep what they individually earned.
+
+Guardrails keep it fair: three missions per student per day, photo verification on every submission, and a cooldown after capture so ecores can't be immediately retaken. Points feed both personal profiles and a live school leaderboard.
+
+### 🌍 ClimaSight — Awareness
+
+A real-time hub that turns climate information into climate literacy.
+
+**Quiz** — Topic-based quizzes on carbon footprint, climate causes, renewable energy, and SDG 13, with scoring, attempt history, and green points for correct answers.
+
+**Resilience** — A live disaster feed pulling floods, landslides, typhoons, and wildfires, with location, casualties, and damage details, newest first.
+
+**Cases** — Real accounts of people displaced or harmed by climate events, with name, disaster type, and outcome. It reframes climate change from a future concern into something already happening to specific people.
+
+**ClimaAI** — An assistant with four modes: Learn, Ask, Act, and Idea. Students can explore a topic, ask a question, get concrete actions, or develop their own solutions.
 ---
 
 ## Screenshots
