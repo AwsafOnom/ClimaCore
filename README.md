@@ -1,10 +1,16 @@
 
+<h1 align="center">ClimaCore</h1>
 
-# ClimaCore
+<p align="center">
+  <b>A student-centered climate action app for schools — built for SDG 13.</b>
+</p>
 
-**A student-centered climate action app for schools — built for SDG 13.**
+<p align="center">
+  🏆 <b>1st place, 15th e-ICON World Contest 2025</b> — 161 projects, 37 countries.<br>
+  Award received from the Minister of Education, South Korea.
+</p>
 
-**🏆 1st place, 15th e-ICON World Contest 2025 — 161 projects, 37 countries. Award received from the Minister of Education, South Korea.**
+---
 
 🎬 **50-second promo vid:** 
 
