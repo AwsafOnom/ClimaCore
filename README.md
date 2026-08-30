@@ -4,13 +4,13 @@
 
 **A student-centered climate action app for schools — built for SDG 13.**
 
-**🏆 1st place, 15th e-ICON World Contest 2025 — 161 projects, 37 countries. Award received from the Minister of Education, Seoul.**
+**🏆 1st place, 15th e-ICON World Contest 2025 — 161 projects, 37 countries. Award received from the Minister of Education, South Korea.**
 
-> 🎬 **50-second promo** — *
+🎬 **50-second promo vid:** 
 
 https://github.com/user-attachments/assets/63f55235-0119-4713-b310-eba1ea6eba87
 
-*
+
 
 | | |
 |---|---|
