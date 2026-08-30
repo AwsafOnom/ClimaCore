@@ -91,8 +91,7 @@ The full deck presented at the 15th e-ICON World Contest in Seoul.
 <br>
 
 ![](slides/slide-01.jpg)<img width="1280" height="720" alt="slide-01" src="https://github.com/user-attachments/assets/9203b146-5894-4fd5-a7e1-37d1ed5c3026" />
-![](slides/slide-02.jpg)
-![](slides/slide-03.jpg)
+![]<img width="1280" height="720" alt="slide-03" src="https://github.com/user-attachments/assets/017baee3-f6fc-43e5-b483-6500dffde2b7" />
 ![](slides/slide-04.jpg)
 ![](slides/slide-05.jpg)
 ![](slides/slide-06.jpg)
