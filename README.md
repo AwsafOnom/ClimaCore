@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/63f55235-0119-4713-b310-eba1ea6eba87
 
 ## The Problem
 
-Korean youth show strong climate concern — **90.8% of surveyed students** expressed worry about climate change — but **participation in social climate action stays low**. Common blockers: lack of time, inconvenience, low engagement, and information scattered across apps and news sites. ClimaCore tries to close that gap by putting community action, gamified missions, and climate learning in one place students already use: their phones.
+Youth show strong climate concern — **90.8% of surveyed students** expressed worry about climate change — but **participation in social climate action stays low**. Common blockers: lack of time, inconvenience, low engagement, and information scattered across apps and news sites. ClimaCore tries to close that gap by putting community action, gamified missions, and climate learning in one place students already use: their phones.
 
 ---
 
@@ -76,6 +76,40 @@ A real-time hub that turns climate information into climate literacy.
 | Community activity detail | Quizzes — learn & act | Personal habit tracking |
 | ![Rewards](screenshots/10-rewards.png) | | |
 | Points & rewards | | |
+
+</details>
+
+---
+
+## Contest Presentation
+
+The full deck presented at the 15th e-ICON World Contest in Seoul.
+
+<details open>
+<summary><b>View all 20 slides</b></summary>
+
+<br>
+
+![](slides/slide-01.jpg)<img width="1280" height="720" alt="slide-01" src="https://github.com/user-attachments/assets/9203b146-5894-4fd5-a7e1-37d1ed5c3026" />
+![](slides/slide-02.jpg)
+![](slides/slide-03.jpg)
+![](slides/slide-04.jpg)
+![](slides/slide-05.jpg)
+![](slides/slide-06.jpg)
+![](slides/slide-07.jpg)
+![](slides/slide-08.jpg)
+![](slides/slide-09.jpg)
+![](slides/slide-10.jpg)
+![](slides/slide-11.jpg)
+![](slides/slide-12.jpg)
+![](slides/slide-13.jpg)
+![](slides/slide-14.jpg)
+![](slides/slide-15.jpg)
+![](slides/slide-16.jpg)
+![](slides/slide-17.jpg)
+![](slides/slide-18.jpg)
+![](slides/slide-19.jpg)
+![](slides/slide-20.jpg)
 
 </details>
 
