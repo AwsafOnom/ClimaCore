@@ -91,24 +91,25 @@ The full deck presented at the 15th e-ICON World Contest in Seoul.
 <br>
 
 ![](slides/slide-01.jpg)<img width="1280" height="720" alt="slide-01" src="https://github.com/user-attachments/assets/9203b146-5894-4fd5-a7e1-37d1ed5c3026" />
-![]<img width="1280" height="720" alt="slide-03" src="https://github.com/user-attachments/assets/017baee3-f6fc-43e5-b483-6500dffde2b7" />
-![](slides/slide-04.jpg)
-![](slides/slide-05.jpg)
-![](slides/slide-06.jpg)
-![](slides/slide-07.jpg)
-![](slides/slide-08.jpg)
-![](slides/slide-09.jpg)
-![](slides/slide-10.jpg)
-![](slides/slide-11.jpg)
-![](slides/slide-12.jpg)
-![](slides/slide-13.jpg)
-![](slides/slide-14.jpg)
-![](slides/slide-15.jpg)
-![](slides/slide-16.jpg)
-![](slides/slide-17.jpg)
-![](slides/slide-18.jpg)
-![](slides/slide-19.jpg)
-![](slides/slide-20.jpg)
+![](slides/slide-03.jpg)<img width="1280" height="720" alt="slide-03" src="https://github.com/user-attachments/assets/017baee3-f6fc-43e5-b483-6500dffde2b7" />
+![](slides/slide-04.jpg)<img width="1280" height="720" alt="slide-04" src="https://github.com/user-attachments/assets/2b4ec5e5-a456-4f77-8272-ef0575e98e91" />
+![](slides/slide-05.jpg)<img width="1280" height="720" alt="slide-05" src="https://github.com/user-attachments/assets/5f7c6765-dcd3-4897-bde3-f9634ed44407" />
+![](slides/slide-06.jpg)<img width="1280" height="720" alt="slide-06" src="https://github.com/user-attachments/assets/3dc76a0b-d7a0-43ab-a34d-d8aedaec1701" />
+![](slides/slide-07.jpg)<img width="1280" height="720" alt="slide-07" src="https://github.com/user-attachments/assets/fbddb843-1174-43f8-bcbe-da11e8d41893" />
+![](slides/slide-08.jpg)<img width="1280" height="720" alt="slide-08" src="https://github.com/user-attachments/assets/e0a57b8f-9344-4a41-b085-e80db5236b6e" />
+![](slides/slide-09.jpg)<img width="1280" height="720" alt="slide-09" src="https://github.com/user-attachments/assets/67a99b5e-673f-4ec7-951e-8eb722c60104" />
+![](slides/slide-10.jpg)<img width="1280" height="720" alt="slide-10" src="https://github.com/user-attachments/assets/2fba8887-da98-4f0f-8b47-6216cd24d1e3" />
+![](slides/slide-11.jpg)<img width="1280" height="720" alt="slide-11" src="https://github.com/user-attachments/assets/3ebf2526-24fe-409d-ba97-b584e91af215" />
+![](slides/slide-12.jpg)<img width="1280" height="720" alt="slide-12" src="https://github.com/user-attachments/assets/6a075bb4-be64-42ec-9696-1bb76b10fe92" />
+![](slides/slide-13.jpg)<img width="1280" height="720" alt="slide-13" src="https://github.com/user-attachments/assets/d93d8bf8-c52f-4e82-9ec1-5a569c41163c" />
+![](slides/slide-14.jpg)<img width="1280" height="720" alt="slide-14" src="https://github.com/user-attachments/assets/0e4c9eea-bc66-47b8-b46d-0e5dd4426f71" />
+![](slides/slide-15.jpg)<img width="1280" height="720" alt="slide-15" src="https://github.com/user-attachments/assets/24016edb-df98-4078-991b-0ae0494e2198" />
+![](slides/slide-16.jpg)<img width="1280" height="720" alt="slide-16" src="https://github.com/user-attachments/assets/8a273c5f-a6f7-4e2b-8300-88c1c858fcea" />
+![](slides/slide-17.jpg)<img width="1280" height="720" alt="slide-17" src="https://github.com/user-attachments/assets/9665eb70-ae91-45dd-8014-948fe90b85fa" />
+![](slides/slide-18.jpg)<img width="1280" height="720" alt="slide-18" src="https://github.com/user-attachments/assets/92b2cea1-6669-4302-b035-b51354808900" />
+![](slides/slide-19.jpg)<img width="1280" height="720" alt="slide-19" src="https://github.com/user-attachments/assets/06639a31-d55b-4a51-8949-7ace08f7bf40" />
+![](slides/slide-20.jpg)<img width="1280" height="720" alt="slide-20" src="https://github.com/user-attachments/assets/76bb7aff-aa47-46b7-95da-e40e8a3a4cca" />
+
 
 </details>
 
