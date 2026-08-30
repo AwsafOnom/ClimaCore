@@ -14,7 +14,28 @@ https://github.com/user-attachments/assets/63f55235-0119-4713-b310-eba1ea6eba87
 
 | | |
 |---|---|
-| 📱 **[Download APK](https://drive.google.com/file/d/1qbVFBRkjFq9oR8gZCL2ga_iniPJqNUko/view)** | 🎥 **[Full demo video](https://drive.google.com/drive/u/0/folders/1YPLztBb1bGR6G6U7fjy9U8P68T_kPTk8)** |
+<p align="center">
+  <a href="https://e-icon.or.kr/en/2025%eb%85%84-%ec%a0%9c15%ed%9a%8c-%ec%a4%91%eb%93%b1%eb%b6%80-1%eb%93%b1-%ea%b5%90%ec%9c%a1%eb%b6%80-%ec%9e%a5%ea%b4%80%ec%83%81/">
+    <img src="https://img.shields.io/badge/2025%201ST%20PRIZE-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" alt="1st Prize">
+  </a>
+  <a href="https://e-icon.or.kr/en/">
+    <img src="https://img.shields.io/badge/E--ICON%20CONTEST-4A4A4A?style=for-the-badge" alt="e-ICON World Contest">
+  </a>
+  <a href="https://github.com/AwsafOnom/ClimaCore/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+  <a href="https://drive.google.com/file/d/19NXPD6Vm_nmqCTBiwpupgnjfCrFf9U4z/view?usp=sharing">
+    <img src="https://img.shields.io/badge/DEMO%20VIDEO-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Demo Video">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</p>
+
 
 ---
 ## Contest Poster
