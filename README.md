@@ -55,6 +55,7 @@ A real-time hub that turns climate information into climate literacy.
 **Cases** — Real accounts of people displaced or harmed by climate events, with name, disaster type, and outcome. It reframes climate change from a future concern into something already happening to specific people.
 
 **ClimaAI** — An assistant with four modes: Learn, Ask, Act, and Idea. Students can explore a topic, ask a question, get concrete actions, or develop their own solutions.
+
 ---
 
 ## Screenshots
