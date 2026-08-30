@@ -4,11 +4,12 @@
 
 **🏆 1st place, 15th e-ICON World Contest 2025 — 161 projects, 37 countries. Award received from the Minister of Education, Seoul.**
 
-> 🎬 **30-second promo** — *[video placeholder]*
+> 🎬 **50-second promo** — *
+Uploading M4 Promo Vid.mp4…*
 
 | | |
 |---|---|
-| 📱 **[Download APK](#)** *(placeholder)* | 🎥 **[Full demo video](#)** *(placeholder)* |
+| 📱 **[Download APK](https://drive.google.com/file/d/1qbVFBRkjFq9oR8gZCL2ga_iniPJqNUko/view)** *(placeholder)* | 🎥 **[Full demo video](https://drive.google.com/drive/u/0/folders/1YPLztBb1bGR6G6U7fjy9U8P68T_kPTk8)** *(placeholder)* |
 
 ---
 
@@ -154,12 +155,12 @@ A screen-by-screen tour of ClimaConnect, ClimaGame, and ClimaSight as demonstrat
 
 | Name | Role | Country |
 |---|---|---|
-| Awsaf Zaman Onom | Team Lead / Planner | Bangladesh |
-| Rayeen Ar Raad | Lead Developer | Bangladesh |
-| Jungyoon Park | Design | Korea |
-| Seogwang Kim | Design | Korea |
+| **Awsaf Zaman Onom** | Team Lead, Planner & App Designer | Bangladesh |
+| **Rayeen Ar Raad** | Lead Developer | Bangladesh |
+| **Jungyoon Park** | Researcher | South Korea |
+| **Seogwang Kim** | Researcher | South Korea |
 
-Mentor: Md. Nahian Hossain, St. Joseph Higher Secondary School, Dhaka.
+Mentor: Md. Nahian Hossain, St. Joseph Higher Secondary School, Dhaka
 
 ---
 
