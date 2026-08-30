@@ -17,6 +17,12 @@ https://github.com/user-attachments/assets/63f55235-0119-4713-b310-eba1ea6eba87
 | 📱 **[Download APK](https://drive.google.com/file/d/1qbVFBRkjFq9oR8gZCL2ga_iniPJqNUko/view)** | 🎥 **[Full demo video](https://drive.google.com/drive/u/0/folders/1YPLztBb1bGR6G6U7fjy9U8P68T_kPTk8)** |
 
 ---
+## Contest Poster
+
+<img width="6619" height="9361" alt="ClimaCore Poster" src="https://github.com/user-attachments/assets/85eb8bec-1434-47b6-a7df-2f74a1db9110" />
+
+---
+
 
 ## The Problem
 
